@@ -35,7 +35,6 @@
 ### 🔭 What I'm Up To
 
 - ⚙️ Improving Tekton pipeline reliability and idempotency in Konflux
-- 🌐 Building blueprints and demos that combine OpenShift AI with tools like KFP, MinIO, and PGVector
 - 🤖 Exploring GenAI for observability, release intelligence, and developer automation
 
 ---
